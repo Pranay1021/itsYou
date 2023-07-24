@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "535003178700",
+    "project_id": "crew-16d08",
+    "storage_bucket": "crew-16d08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535003178700:android:1f2b259886149990780469",
+        "android_client_info": {
+          "package_name": "com.pranay.crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535003178700-6ogivtcu0n1gb4mocr6knm45g73aomf0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhiQ4UpOiP0zrhLYj47sD3l8JjUAeIFis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535003178700-6ogivtcu0n1gb4mocr6knm45g73aomf0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
